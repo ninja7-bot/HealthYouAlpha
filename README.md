@@ -12,7 +12,6 @@ HealthYou is an Android-based mental health support application designed to prov
     
 - **Humanized Empathetic Dialogue:** Utilizes specialized layers to ensure a supportive, natural, and jargon-free conversational experience.
     
-- **User Insight Dashboard:** Visualized mood trends and session summaries to help users build self-awareness and resilience.
     
 
 ##  AI Engine & Model Training
@@ -52,7 +51,7 @@ The "brain" of HealthYou is built on sophisticated local processing to bridge th
 
 We are committed to making mental health support more accessible and efficient. Our upcoming milestones include:
 
-- [x] **APK Launch:** Releasing a standalone APK file for easier distribution and testing.
+- [ ] **APK Launch:** Releasing a standalone APK file for easier distribution and testing.
     
 - [ ] **Model Optimization:** Embedding a highly compressed (512 MB) fine-tuned version of the model dedicated to basic conversations to reduce resource consumption.
     
@@ -76,7 +75,7 @@ We are committed to making mental health support more accessible and efficient. 
 1. Clone the repository:
     
     ```
-    git clone [https://github.com/yourusername/HealthYou.git](https://github.com/yourusername/HealthYou.git)
+    git clone [https://github.com/ninja7-bot/HealthYou.git](https://github.com/ninja7-bot/HealthYou.git)
     ```
     
 2. Open the project in Android Studio.
